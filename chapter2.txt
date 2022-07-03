@@ -1,8 +1,1 @@
-I am progressing in learning git. This is the chapter2.txt.
-I already committed chapter1.txt.
-
-Again I made a change to this file chapter2.txt. I will commit it now.
-
-After commiting it does not checkout.
-
-After commit it did not restore????? Am I doing it right?
+This is the chapter2.txt file. Trying out Git.

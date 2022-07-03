@@ -1,1 +1,1 @@
-This is trying out git, using instructions from Angela.
+Chapter 1. Trying out git.

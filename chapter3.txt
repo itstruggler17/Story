@@ -1,9 +1,9 @@
-This is chapter3.txt. I want to jot down all the commands of git.
+This is chapter3.txt. Some basic git commands.
 
 git init
 git status
 git add filename.txt -m "This is for adding untracked files to the local rep"
 git commit -a (all untracked files)
 git commit filename.txt -m "Message when committing the file to git"
-
+git commit .
 git log
