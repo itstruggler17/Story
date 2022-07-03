@@ -1,0 +1,2 @@
+I am progressing in learning git. This is the chapter2.txt.
+I already committed chapter1.txt.
