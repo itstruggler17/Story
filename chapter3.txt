@@ -1,6 +1,6 @@
 This is chapter3.txt file. I am practicing.
 
-
+git init
 git status
 git add fileName.ext
 git commit fileName.ext -m "Message that you want to add"
