@@ -1,10 +1,9 @@
-This is chapter3.txt file. I am practicing.
+This is chapter3.txt. I want to jot down all the commands of git.
 
 git init
 git status
-git add fileName.ext
-git commit fileName.ext -m "Message that you want to add"
-or
-git commit fileName.ext -a
-git checkout fileName.ext
+git add filename.txt -m "This is for adding untracked files to the local rep"
+git commit -a (all untracked files)
+git commit filename.txt -m "Message when committing the file to git"
+
 git log
